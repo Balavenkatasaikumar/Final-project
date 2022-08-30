@@ -1,6 +1,8 @@
 # Final-project
 This is my final project
+
 This is a responsive webpage which I created using simple HTML and CSS languages.
+
 This is a basic webpage which is used as the checking the foodie blog
 Recipes
 Food/Restaurant Review
